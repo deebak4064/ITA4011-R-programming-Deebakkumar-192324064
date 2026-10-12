@@ -1,6 +1,3 @@
-# Program 21: Logistic regression on iris (80/20 split) with a confusion matrix
-# Species has 3 classes, so multinomial logistic regression (nnet::multinom) is used.
-
 library(nnet)
 
 set.seed(2026)
